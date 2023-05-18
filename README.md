@@ -7,6 +7,12 @@ An opinionated template project for data science in Clojure (WIP)
 
 Coming soon
 
+## Example notebook
+
+[source](notebooks/getting_started/visualization.clj)
+[quarto-rendered doc](https://daslu.github.io/getting-started/getting-started/visualization_quarto.html)
+
+
 ## License
 
 Copyright © 2022 daslu
