@@ -9,8 +9,8 @@ Coming soon
 
 ## Example notebook
 
-[source](notebooks/getting_started/visualization.clj)
-[quarto-rendered doc](https://daslu.github.io/getting-started/getting-started/visualization_quarto.html)
+* [source](notebooks/getting_started/visualization.clj)
+* [quarto-rendered doc](https://daslu.github.io/getting-started/getting-started/visualization_quarto.html)
 
 
 ## License
